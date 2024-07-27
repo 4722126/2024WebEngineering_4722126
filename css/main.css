@@ -1,0 +1,38 @@
+body{
+    background-color: 　green;
+}
+
+section {
+    margin: 50px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(125, 151, 151);
+}
+
+ul{
+    display: flex;
+    padding: 10;
+}
+
+li{
+    list-style: none;
+    margin-right: 20px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color:rgb(77, 134, 59);
+    font-weight: bold;
+}
+
+article {
+    background-color:rgb(85, 169, 127);
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
